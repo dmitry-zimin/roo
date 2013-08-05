@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'spreadsheet', '> 0.6.4'
+gem 'spreadsheet', '0.8.8'
 gem 'nokogiri'
 gem 'rubyzip'
 # gem 'google-spreadsheet-ruby'
